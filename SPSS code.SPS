@@ -2,8 +2,6 @@
 Created by: Jill Budden
 Client: Halliburton
 Test: TMCB 5.3 (a shortened version of the TMCB 5.0)
-Date: January 2008
-Reference syntax: Denso, Lennox, Gaterade,  Westinghouse (LII)
 Note: 
 Weighting was based on validity and adverse impact tradeoffs (an excel spreadsheet in the client's Analysis folder illustrates these tradeoffs). 
 The length of the test was cut in half because the client wanted a shorter test. 
