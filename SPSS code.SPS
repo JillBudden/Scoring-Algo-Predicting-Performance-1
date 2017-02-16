@@ -1,6 +1,6 @@
 *******************************************************************************
 Created by: Jill Budden
-Client: Halliburton
+Client: H
 Test: TMCB 5.3 (a shortened version of the TMCB 5.0)
 Note: 
 Weighting was based on validity and adverse impact tradeoffs (an excel spreadsheet in the client's Analysis folder illustrates these tradeoffs). 
@@ -10,18 +10,6 @@ WRJ Situational Judgment, WSD Locus of Control, WSD Decision Making Style, WSD W
 WSD Job Fit Team Member & WSD Adaptability are included in the TMCB 5.3, but not scored, in order to balance out the WSD Self-Efficacy items.
 
 *******************************************************************************
-
-
-************************************************Merging files************************************************************************
-
-
-Match files file='Y:\CLIENTS\Halliburton\Operators Validation Study\Predictor\final_AMS_Master_TestPortal_1649_merged.sav'
-	/file='Y:\CLIENTS\Halliburton\Operators Validation Study\Criteria\criterion_data.sav'
-            /IN matched
-	/BY cde_applicant_id.
-EXECUTE.
-
-***NOTE: 2 duplicate applicant IDs (177518 & 177515)***
 
 *****************************************************************************************************************************************************************
 
